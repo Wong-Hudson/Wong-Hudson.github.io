@@ -1,0 +1,26 @@
+.navbar-default {
+
+  background-color: #69899f;
+
+  border-color: #425766;
+}
+img {
+  border: 5px solid #000000;
+}
+
+body {
+  background: url('http://2.bp.blogspot.com/_uFooa8uVVH4/Rw6dzPclH4I/AAAAAAAABew/mGGJ2F_aKW4/s400/P1010117.JPG') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+head {
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.white-box {
+    background-color: black;
+    color: white;
+}
